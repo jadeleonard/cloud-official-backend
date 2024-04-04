@@ -10,7 +10,7 @@
 
     "dev":"nodemon src/server.js"
   },
-  "vercel":"",
+  "vercel-build":"",
   "author": "",
   "license": "ISC",
   "dependencies": {
