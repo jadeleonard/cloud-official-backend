@@ -2,7 +2,7 @@
   "name": "cloud-official-backend-control",
   "version": "1.0.0",
   "description": "The official backend for Cloud Market E commerce",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
 
