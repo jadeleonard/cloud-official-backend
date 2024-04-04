@@ -7,6 +7,10 @@ const prisma = new PrismaClient();
 
 app.use(express.json());
 
+
+
+
+
 app.get('/api/navbar', async (req, res) => {
     try {
         const response = await prisma.navbar.findMany();
